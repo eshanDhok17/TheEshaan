@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheEshaan
-- 👀 I’m interested in computer technology.
+- 👀 I’m interested in computer technology and software development.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Full stack (MERN) projects.
 - 📫 How to reach me? mail: dhoksoneshan@gmail.com
